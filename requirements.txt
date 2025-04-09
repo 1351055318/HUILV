@@ -1,0 +1,6 @@
+PySide6==6.6.1
+requests==2.31.0
+forex-python==1.8
+yfinance==0.2.36
+numpy<2.0.0
+PyInstaller==6.2.0 
