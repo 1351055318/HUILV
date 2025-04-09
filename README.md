@@ -1,6 +1,7 @@
 # 实时汇率与贵金属价格桌面应用
 
-![示例截图](![302081ec0d07c9d1cb381125c2e02a86](https://github.com/user-attachments/assets/679c8a34-c229-4791-ba4a-92acf7886504)
+![示例截图](![image](https://github.com/user-attachments/assets/20c786e0-e8cb-4636-bda4-1c5a20b0c882)
+)
 )
 )
 
