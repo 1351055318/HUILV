@@ -25,12 +25,6 @@
 
 ## 安装方法
 
-### 方法一: 直接下载可执行文件
-
-在 [Releases](https://github.com/1351055318/HUILV/releases) 页面下载最新版本的可执行文件，解压后直接运行 `汇率与贵金属价格.exe`。
-
-### 方法二: 从源码运行
-
 1. 克隆仓库
    ```bash
    git clone https://github.com/1351055318/HUILV.git
